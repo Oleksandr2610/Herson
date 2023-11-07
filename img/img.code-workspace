@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../.cache"
+		},
+		{
+			"path": "../.config"
+		},
+		{
+			"path": "../Herson"
+		}
+	]
+}
